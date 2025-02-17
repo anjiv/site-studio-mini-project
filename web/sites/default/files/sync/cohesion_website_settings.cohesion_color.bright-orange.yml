@@ -1,0 +1,13 @@
+uuid: 40523d2f-008e-40f6-8089-a5438a7b8cdf
+langcode: en
+status: true
+dependencies: {  }
+label: 'Bright orange'
+id: bright-orange
+json_values: '{"link":true,"value":{"value":{"hex":"#fc9f43","rgba":"rgba(252, 159, 67, 1)"}},"uid":"bright-orange","name":"Bright orange","class":".coh-color-bright-orange","variable":"$coh-color-bright-orange","wysiwyg":true}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: true
+selectable: true
+weight: 11

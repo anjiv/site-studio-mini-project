@@ -1,0 +1,24 @@
+uuid: 3005ac8c-9de6-4d6b-a2eb-b5f7a8d50700
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_layout_canvas_article
+    - node.type.article
+  module:
+    - cohesion_elements
+id: node.article.field_layout_canvas_article
+field_name: field_layout_canvas_article
+entity_type: node
+bundle: article
+label: 'Layout canvas article'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:cohesion_layout'
+  handler_settings: {  }
+  access_elements: '0'
+field_type: cohesion_entity_reference_revisions
