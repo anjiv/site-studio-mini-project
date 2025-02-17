@@ -1,0 +1,23 @@
+uuid: c9ed09f3-b43c-4b4c-a7e8-12e488c6c5b9
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - cohesion_theme
+_core:
+  default_config_hash: _nZjxxdypO6xrOAJkCYD81v0L7wh2zbCAVO7_C-UKIc
+id: cohesion_theme_search_form_narrow
+theme: cohesion_theme
+region: header
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: null
+visibility: {  }

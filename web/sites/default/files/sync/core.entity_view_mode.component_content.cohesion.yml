@@ -1,0 +1,13 @@
+uuid: ecc30ff9-cb99-40e3-886d-2d0e0e92e0ef
+langcode: en
+status: true
+dependencies:
+  module:
+    - cohesion_elements
+_core:
+  default_config_hash: pIWrbQDIvdCEe9USGSPntcZ03Z1O7zy57H7FxVTIxDE
+id: component_content.cohesion
+label: Cohesion
+description: null
+targetEntityType: component_content
+cache: true

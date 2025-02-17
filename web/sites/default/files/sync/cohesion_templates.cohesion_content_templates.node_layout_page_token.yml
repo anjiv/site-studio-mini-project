@@ -1,0 +1,18 @@
+uuid: 66c66f8b-412c-4a45-b901-489831dc6e3b
+langcode: en
+status: false
+dependencies: {  }
+label: 'Token (Node, Layout page)'
+id: node_layout_page_token
+json_values: '{"canvas":[],"mapper":null,"model":[]}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+modified: false
+selectable: false
+custom: false
+twig_template: null
+default: false
+entity_type: node
+bundle: layout_page
+view_mode: token
+master_template: ''

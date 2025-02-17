@@ -1,0 +1,69 @@
+uuid: 674f688d-b6db-4df5-937a-b0fccf8bc56b
+langcode: en
+status: true
+dependencies:
+  config:
+    - filter.format.cohesion
+  module:
+    - ckeditor5
+    - cohesion
+third_party_settings:
+  cohesion:
+    ssa_enabled: true
+_core:
+  default_config_hash: RRE_EayRMgoHQUIp3EGyXP5g3CG6vWf_PRs4GMirEM8
+format: cohesion
+editor: ckeditor5
+settings:
+  toolbar:
+    items:
+      - bold
+      - italic
+      - underline
+      - removeFormat
+      - '|'
+      - alignment
+      - '|'
+      - link
+      - '|'
+      - bulletedList
+      - numberedList
+      - '|'
+      - blockQuote
+      - '|'
+      - sourceEditing
+      - '|'
+      - heading
+      - codeBlock
+      - style
+  plugins:
+    ckeditor5_heading:
+      enabled_headings:
+        - heading1
+        - heading2
+        - heading3
+        - heading4
+        - heading5
+        - heading6
+    ckeditor5_style:
+      styles:
+        -
+          label: 'Example class'
+          element: '<span class="example-class">'
+    ckeditor5_sourceEditing:
+      allowed_tags:
+        - '<span class>'
+        - '<dl>'
+    ckeditor5_list:
+      properties:
+        reversed: true
+        startIndex: true
+      multiBlock: true
+    ckeditor5_alignment:
+      enabled_alignments:
+        - left
+        - center
+        - right
+        - justify
+image_upload:
+  status: false
