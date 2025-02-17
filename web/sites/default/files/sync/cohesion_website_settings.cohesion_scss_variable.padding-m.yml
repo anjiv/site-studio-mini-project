@@ -1,0 +1,13 @@
+uuid: f2627724-2fff-40c8-80d2-8d4d421127d9
+langcode: en
+status: true
+dependencies: {  }
+label: null
+id: padding-m
+json_values: '{"uid":"padding-m","value":"32px"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: true
+selectable: true
+weight: 1

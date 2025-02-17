@@ -3,11 +3,11 @@ langcode: en
 status: true
 dependencies:
   config:
-    - cohesion_website_settings.cohesion_color.black
-    - cohesion_website_settings.cohesion_font_stack.roboto
+    - cohesion_website_settings.cohesion_color.bright-orange
+    - cohesion_website_settings.cohesion_font_stack.montserrat
 label: 'Default font settings'
 id: default_font_settings
-json_values: '{"defaultFontStack":"$coh-font-roboto","color":{"value":{"hex":"#000000","rgba":"rgba(0, 0, 0, 1)"},"name":"Black","uid":"black","wysiwyg":true,"class":".coh-color-black","variable":"$coh-color-black","inuse":false}}'
+json_values: '{"defaultFontStack":"$coh-font-montserrat","color":{"link":true,"value":{"hex":"#fc9f43","rgba":"rgba(252, 159, 67, 1)"},"uid":"bright-orange","name":"Bright orange","class":".coh-color-bright-orange","variable":"$coh-color-bright-orange","wysiwyg":true}}'
 json_mapper: '{}'
 last_entity_update: entityupdate_0043
 locked: false

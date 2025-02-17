@@ -1,0 +1,13 @@
+uuid: 29d6cf1a-2384-4cf9-ab30-80209f3da068
+langcode: en
+status: true
+dependencies: {  }
+label: Green
+id: green
+json_values: '{"link":true,"value":{"value":{"hex":"#e6f0e7","rgba":"rgba(230, 240, 231, 1)"}},"uid":"green","name":"Green","class":".coh-color-green","variable":"$coh-color-green","wysiwyg":true}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: true
+selectable: true
+weight: 12

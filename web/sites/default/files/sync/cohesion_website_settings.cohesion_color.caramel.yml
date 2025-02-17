@@ -1,0 +1,13 @@
+uuid: 8390468a-647c-492f-bdb8-32f188fbd1cb
+langcode: en
+status: true
+dependencies: {  }
+label: Caramel
+id: caramel
+json_values: '{"link":true,"value":{"value":{"hex":"#ffd19c","rgba":"rgba(255, 209, 156, 1)"}},"uid":"caramel","name":"Caramel","class":".coh-color-caramel","variable":"$coh-color-caramel"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: true
+selectable: true
+weight: 13

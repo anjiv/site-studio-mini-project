@@ -1,0 +1,13 @@
+uuid: 9d921a2c-37a2-4da7-b6f5-61690a5d0e44
+langcode: en
+status: true
+dependencies: {  }
+label: Montserrat
+id: 8c198f31f618a8efb8683ee81d666581
+json_values: '{"type":"import","name":"Montserrat","url":"https:\/\/fonts.googleapis.com\/css?family=Montserrat:400,600,700,800","uid":"8c198f31f618a8efb8683ee81d666581"}'
+json_mapper: '{}'
+last_entity_update: entityupdate_0043
+locked: false
+modified: true
+selectable: true
+source: fonts
